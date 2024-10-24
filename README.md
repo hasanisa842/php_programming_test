@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+Berikut adalah website project yang saya buat sendiri untuk tes kemampuan saya sebagai PHP programmer.
+Website tersebut menggunakan PHP versi 8.1.11 dan Laravel Framework versi 10.48.22, serta penggunaan Bootstrap 5 sebagai basis untuk designnya.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
